@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[191],{191:(s,e,h)=>{h.r(e),h.d(e,{default:()=>t});var n=h(414);const t=()=>(0,n.jsxs)("div",{className:"home",children:[(0,n.jsx)("h1",{children:"Home"}),(0,n.jsx)("button",{children:"this button does nothing!"})]})}}]);

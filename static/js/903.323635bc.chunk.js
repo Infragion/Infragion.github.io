@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[903],{903:(s,a,e)=>{e.r(a),e.d(a,{default:()=>p});var c=e(414);const p=()=>(0,c.jsx)("div",{className:"about",children:(0,c.jsx)("h1",{children:"About"})})}}]);
